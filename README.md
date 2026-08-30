@@ -1,4 +1,10 @@
-# TicTacToe_game_using_java
-A simple TicTacToe Game using JAVA Language.
-<br>
-TicTacToe Game For Two Human Player
+# Tic-Tac-Toe in Java
+
+A console-based Tic-Tac-Toe implementation written in Java to practise arrays, control flow, input handling, and win-condition logic.
+
+## Run locally
+
+```bash
+javac gameboard.java
+java gameboard
+```
